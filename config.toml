@@ -1,0 +1,12 @@
+#Hugo configuration
+title = "some"
+baseURL = "https:\/\/videos.something.com"
+languageCode = "en-us"
+theme = "tvpage"
+disablePathToLower = "true"
+enableRobotsTXT = true
+
+[params]
+loginId = "1758904"
+subfolder = ""
+cookiedomain = "something.com"
